@@ -49,7 +49,6 @@ Come follow my progress by viewing my github [repository](https://github.com/Cot
 
 <div align="center">
 
-  ![Snake animation](https://github.com/cotilen/cotilen/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 </div>
