@@ -7,7 +7,7 @@ Come follow my progress by viewing my github [repository](https://github.com/Cot
 
 - 🌱 I’m currently learning **Database, Kotlin, JS**
 
-- 👨‍💻 All of my projects are available at [Portifólio](https://cleiton-beep.github.io/portifolio/)
+- 👨‍💻 All of my projects are available at [Portifólio](https://cotilen.github.io/portifolio/)
 
 - 📫 How to reach me **cleitonncruz105@gmail.com**
 
